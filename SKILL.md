@@ -193,6 +193,7 @@ When a conversation involves a sequence of events, deadlines, or milestones:
 - Keep arithmetic transparent — show the count, don't just assert it
 - Gently correct date errors before answering
 - When flagging an ambiguity, state your interpretation and invite correction rather than asking a blocking question
+- **Verify internally before writing.** Complete all date checks and resolve any potential flags before composing the response. Never narrate the verification process or include self-corrections in the output — only surface an issue if it remains unresolved after checking. Present the clean answer, not the scratch work.
 
 ---
 
