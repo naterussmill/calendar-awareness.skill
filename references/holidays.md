@@ -86,7 +86,7 @@ These are not federal holidays but commonly affect business operations. When bus
 
 ## US Time Zones — Quick Reference
 
-Default assumption for Nathan: **Central Time (CT)**
+Default assumption: **Central Time (CT)**
 
 | Zone | Abbrev (Standard) | Abbrev (DST) | Offset (Standard) | Offset (DST) |
 |---|---|---|---|---|
@@ -132,7 +132,7 @@ Default assumption for Nathan: **Central Time (CT)**
 | 1 Jul | Jul–Sep | US federal government, many states, universities |
 | 1 Oct | Oct–Dec | Some corporations |
 
-**Minnesota state government FY:** Starts 1 Jul (so FY2026 = Jul 2025 – Jun 2026)
+**Many US states / universities:** FY starts 1 Jul (e.g., FY2026 = Jul 2025 – Jun 2026)
 **US federal government FY:** Starts 1 Oct (so FY2026 = Oct 2025 – Sep 2026)
 
 When the user's context suggests a non-calendar FY, ask: *"Are you working on a calendar fiscal year, or does your organization run a different cycle?"* before computing quarter deadlines.

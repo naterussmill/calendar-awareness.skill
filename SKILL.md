@@ -161,7 +161,7 @@ Always confirm zone when scheduling across regions.
 **Always ask** when quarter language appears in a business or client context — do not silently assume calendar year. Prompt: *"Are you working on a calendar fiscal year, or does your organization run a different cycle?"*
 
 Known non-calendar defaults:
-- Minnesota state government: FY starts 1 Jul
+- Many US states and universities: FY starts 1 Jul
 - US federal government: FY starts 1 Oct
 
 ---
